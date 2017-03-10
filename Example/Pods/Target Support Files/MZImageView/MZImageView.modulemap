@@ -1,0 +1,6 @@
+framework module MZImageView {
+  umbrella header "MZImageView-umbrella.h"
+
+  export *
+  module * { export * }
+}
