@@ -10,6 +10,7 @@
 #import <MZImageView/MZImgView.h>
 
 @interface MZViewController ()
+
 @property (weak, nonatomic) IBOutlet MZImgView *testImageView;
 
 @end
