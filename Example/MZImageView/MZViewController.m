@@ -21,6 +21,7 @@
 - (void)viewDidLoad {
   [super viewDidLoad];
   [_testImageView setImageWithUrl:[NSURL URLWithString:@"http://image.tianjimedia.com/uploadImages/2012/188/8SW2C7S517U4_1000x500.jpg"] placeHolderImage:[UIImage imageNamed:@"刷新"]];
+    
 }
 
 @end
